@@ -9,7 +9,7 @@
 
 - My bootcamp projects : [BookBnb](https://github.com/Francoise1999/rails-BookBnB)
 
-- 👨‍💻 All of my projects are available at (https://michaellopes-portfolio.com/)
+- 👨‍💻 All of my projects are available at [Michael Portfolio](https://michaellopes-portfolio.com/)
 
 - 📚 I'm reading the book: **"Clean Code" by Robert Martin.**
 
