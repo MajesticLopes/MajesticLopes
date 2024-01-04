@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently learning **React, TypeScript and SQL**
 
-- My bootcamp projects : [Plan-Eat](https://www.plan-eat.site/)
-
-- My bootcamp projects : [BookBnb](https://github.com/Francoise1999/rails-BookBnB)
-
 - 👨‍💻 All of my projects are available at [Michael Portfolio](https://michaellopes-portfolio.com/)
 
 - 📚 I'm reading the book: **"Clean Code" by Robert Martin.**
