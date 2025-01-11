@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Michael Lopes Marinho</h1>
-<h3 align="center">A passionate Jr. Full-Stack developer living in Montreal</h3>
+<h3 align="center">A passionate IT Student living in Montreal</h3>
 
-- 🔭 I’m currently working to improve my skills on **Ruby, Ruby on Rails, CSS and JavaScript**
+- 🔭 I’m currently working to improve my skills on **Cybersecurity**
 
-- 🌱 I’m currently learning **React, TypeScript and SQL**
+- 🌱 I’m currently learning **Cloud and IT infrastructure Management**
 
 - 👨‍💻 All of my projects are available at [Michael Portfolio](https://michaellopes-portfolio.com/)
 
-- 📚 I'm reading the book: **"Clean Code" by Robert Martin.**
+- 📚 I'm reading the book: **"Hidden Potential" by Adam Grant.**
 
 - 📫 How to reach me **loopes.09@gmail.com**
 
