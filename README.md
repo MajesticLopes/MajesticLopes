@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [Michael Portfolio](https://michaellopes-portfolio.com/)
 
-- 📚 I'm reading the book: **"Hidden Potential" by Adam Grant.**
+- 📚 I'm studying **"Network and Security** at College Ahuntsic
 
 - 📫 How to reach me **loopes.09@gmail.com**
 
